@@ -1,0 +1,2 @@
+# DRAW RECTANGLE
+-color rec
