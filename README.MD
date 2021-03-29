@@ -1,2 +1,2 @@
 # DRAW RECTANGLE
--color rec
+-color rectangle
