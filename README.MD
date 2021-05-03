@@ -1,2 +1,2 @@
 # opengl
--IMGUI ADDED
+-lighting, material
