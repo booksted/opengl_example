@@ -1,2 +1,2 @@
 # opengl
--lighting, material
+-more lighting, object load(bag)
