@@ -1,3 +1,3 @@
 # opengl
 -week_12
-skymap, instancing, MSAA
+advanced lighting, normal mapping
