@@ -1,3 +1,3 @@
 # opengl
--week_12
-advanced lighting, normal mapping
+-week_14
+Deferred shading, SSAO
