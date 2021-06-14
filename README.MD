@@ -1,3 +1,7 @@
 # opengl
 -week_14
-Deferred shading, SSAO
+Physics-Based Rendering
+
+- PBR lighting / texturing
+
+- Diffuse + Specular IBL
